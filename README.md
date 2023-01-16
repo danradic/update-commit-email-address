@@ -41,4 +41,4 @@ cd into your .git folder
 git rebase -i YOUR_SHA -x "git commit --amend --author 'yourUserName <yourEmail@email.com>' -CHEAD"
 ```
 
- &#52;. Sync changes on your local machine
+ &#52;. Sync changes from your local machine
