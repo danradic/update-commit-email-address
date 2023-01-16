@@ -30,7 +30,7 @@ git config --global user.email yourEmail@email.com
 `yourUserName = https://github.com/yourUserName` <br>
 `yourEmail@email.com = https://github.com/settings/emails > Primary email address` <br>
 
- &#50;. Confirm that you have set the email address correctly<br>
+ &#50;. Confirm that you have set the email and username correctly<br>
  ```
 git config --global user.email
 git config --global user.name
