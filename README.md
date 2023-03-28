@@ -37,7 +37,7 @@ git config --global user.name
 ```
  &#51;. Change the email and username for all commits following the specified commit id (SHA), while maintaining the original timestamps:<br>
 ```
-cd into your .git folder
+cd into where your .git folder is
 git rebase -i YOUR_SHA -x "git commit --amend --author 'yourUserName <yourEmail@email.com>' -CHEAD"
 ```
 
